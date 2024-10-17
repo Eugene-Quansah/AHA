@@ -1,0 +1,146 @@
+[
+    {
+        "question": "What is your age?",
+        "options": null,
+        "skip": true,
+        "explain_further": "Age is an important factor in predicting CKD. People of all ages can develop CKD, but the risk increases with age."
+    },
+    {
+        "question": "What is your blood pressure (in mmHg)?",
+        "options": null,
+        "skip": true,
+        "explain_further": "High blood pressure is one of the leading causes of CKD. Please provide your most recent blood pressure reading."
+    },
+    {
+        "question": "What is your specific gravity (sg) of urine?",
+        "options": null,
+        "skip": true,
+        "explain_further": "Specific gravity measures the concentration of your urine. This helps detect kidney function issues."
+    },
+    {
+        "question": "What is your albumin level (al)?",
+        "options": null,
+        "skip": true,
+        "explain_further": "Albumin is a protein, and high levels in the urine can indicate kidney damage."
+    },
+    {
+        "question": "What is your sugar level (su) in urine?",
+        "options": null,
+        "skip": true,
+        "explain_further": "High sugar levels in the urine can be a sign of diabetes, which is a major cause of CKD."
+    },
+    {
+        "question": "Are your red blood cells normal or abnormal?",
+        "options": ["normal", "abnormal"],
+        "skip": true,
+        "explain_further": "Red blood cells in the urine may indicate bleeding in the urinary tract or damage to the kidneys."
+    },
+    {
+        "question": "Are your pus cells normal or abnormal?",
+        "options": ["normal", "abnormal"],
+        "skip": true,
+        "explain_further": "Pus cells may indicate an infection in the urinary tract, which can affect kidney health."
+    },
+    {
+        "question": "Are pus cell clumps present in your urine?",
+        "options": ["present", "not present"],
+        "skip": true,
+        "explain_further": "Pus cell clumps can indicate infection or inflammation in the kidneys."
+    },
+    {
+        "question": "Is bacteria present in your urine?",
+        "options": ["present", "not present"],
+        "skip": true,
+        "explain_further": "Bacteria in urine can be a sign of a urinary tract infection, which may lead to CKD if left untreated."
+    },
+    {
+        "question": "What is your blood glucose level (random test)?",
+        "options": null,
+        "skip": true,
+        "explain_further": "High blood glucose levels can indicate diabetes, which is closely linked to CKD."
+    },
+    {
+        "question": "What is your blood urea level?",
+        "options": null,
+        "skip": true,
+        "explain_further": "Blood urea is a waste product, and high levels may indicate that your kidneys are not functioning properly."
+    },
+    {
+        "question": "What is your serum creatinine level?",
+        "options": null,
+        "skip": true,
+        "explain_further": "Serum creatinine is a measure of kidney function. High levels indicate reduced kidney function."
+    },
+    {
+        "question": "What is your sodium (Na) level?",
+        "options": null,
+        "skip": true,
+        "explain_further": "Sodium levels affect kidney function and water balance in your body."
+    },
+    {
+        "question": "What is your potassium (K) level?",
+        "options": null,
+        "skip": true,
+        "explain_further": "High potassium levels can indicate kidney issues, as the kidneys help regulate potassium balance."
+    },
+    {
+        "question": "What is your hemoglobin (hemo) level?",
+        "options": null,
+        "skip": true,
+        "explain_further": "Hemoglobin is part of red blood cells. Low levels can indicate anemia, which is common in CKD."
+    },
+    {
+        "question": "What is your packed cell volume (pcv)?",
+        "options": null,
+        "skip": true,
+        "explain_further": "Packed cell volume (PCV) measures the proportion of blood occupied by red blood cells. Low PCV is common in kidney diseases."
+    },
+    {
+        "question": "What is your white blood cell (wc) count?",
+        "options": null,
+        "skip": true,
+        "explain_further": "White blood cells fight infections. Abnormal levels may indicate infection or inflammation in the body, affecting kidneys."
+    },
+    {
+        "question": "What is your red blood cell (rc) count?",
+        "options": null,
+        "skip": true,
+        "explain_further": "Low red blood cell counts can indicate anemia, which is a common complication of CKD."
+    },
+    {
+        "question": "Do you have hypertension (high blood pressure)?",
+        "options": ["yes", "no"],
+        "skip": true,
+        "explain_further": "Hypertension is a leading cause of CKD. If you have high blood pressure, it’s important to manage it."
+    },
+    {
+        "question": "Do you have diabetes mellitus?",
+        "options": ["yes", "no"],
+        "skip": true,
+        "explain_further": "Diabetes is a major risk factor for CKD. Proper management of blood sugar levels is essential."
+    },
+    {
+        "question": "Do you have coronary artery disease (heart disease)?",
+        "options": ["yes", "no"],
+        "skip": true,
+        "explain_further": "Heart disease and kidney disease are closely related. Damage to the heart can affect the kidneys and vice versa."
+    },
+    {
+        "question": "How would you describe your appetite?",
+        "options": ["good", "poor"],
+        "skip": true,
+        "explain_further": "Loss of appetite is common in CKD, especially in advanced stages. It's important to note any changes."
+    },
+    {
+        "question": "Do you have pedal edema (swelling of feet)?",
+        "options": ["yes", "no"],
+        "skip": true,
+        "explain_further": "Swelling in the feet may be a sign of fluid retention due to kidney disease."
+    },
+    {
+        "question": "Do you have anemia?",
+        "options": ["yes", "no"],
+        "skip": true,
+        "explain_further": "Anemia is a common complication of CKD, as the kidneys are responsible for producing hormones that stimulate red blood cell production."
+    }
+]
